@@ -9,6 +9,9 @@ Since I measured the dimensions with a cheap caliper, this is that not accurate.
 
 <img src="/BE4108-dimensions.jpg" alt="BE4108 dimensions" width="800"/>
 
+## BE4108 Stator
+[Step file](./stator/BE4108-stator.step) | [STL file](./stator/BE4108-stator.stl)
+
 ## BE4108 Motor Stand
 [Step file](./stand/BE4108-motor-stand-3D-printed.step) | [STL file](./stand/BE4108-motor-stand-3D-printed.stl)
 
